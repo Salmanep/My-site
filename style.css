@@ -1,0 +1,6 @@
+.row{
+    background-color: -moz-linear-gradient(black,red);
+}
+.main{
+    background-image: -moz-linear-gradient(#123456,black);
+}
